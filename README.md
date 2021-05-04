@@ -11,3 +11,7 @@ Remote Procedure Call
 RPC and Intermediate Server
 
 ### lab 4
+RPC Server Protocol over ftp on http
+
+### lab 5
+basic introduction to servlet and tomcat server
